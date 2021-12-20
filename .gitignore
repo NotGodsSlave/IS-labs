@@ -1,0 +1,16 @@
+lab5/
+lab4/
+lab4/pycache/
+lab4/.gitignore
+*.vscode/
+lab3/test
+lab3/sha256/sha256
+lab3/kupyna/kupyna
+lab2/Salsa20/main
+lab2/RC4/test
+lab2/AES/main
+lab2/test_all
+lab1/test_both
+lab1/AES/main
+lab1/Kalyna/main
+lab1/data/TestInput100b.txt

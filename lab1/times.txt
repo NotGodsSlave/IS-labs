@@ -1,0 +1,4 @@
+        AES         Kalyna
+10mb    ~7.2s       ~120s
+100mb   ~72s        ~1200s
+1gb     ~720s    ~12000s(haven't actually tested)
